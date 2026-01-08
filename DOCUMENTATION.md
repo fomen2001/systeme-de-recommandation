@@ -1,6 +1,3 @@
-Parfait 👍
-Voici une **documentation claire, structurée et “prête à présenter à l’oral devant le prof”**, que tu peux **lire**, **mettre dans un rapport**, ou **transformer en slides**.
-Je l’ai écrite **niveau Master**, avec un vocabulaire pédagogique mais rigoureux.
 
 ---
 
